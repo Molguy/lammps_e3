@@ -10,9 +10,9 @@ La carpeta debe contener:
  2) se generará un ejecutable denominado datagen3D que sirve para generar archivos de estructura.
 
 2. Generar un archivo con 10% aceite, para lo cual se deberá revisarr el archivo def.micelle3D:
- 1) se usara vim en terminal: vim def.micelle3D
+ 1) editalo con Bloc de Notas o usa vim en terminal: vim def.micelle3D
  2) será en la linea donde dice "% of oil - like solvent"
-	- para salir se presiona Esc, luego :wq o :q! y Enter -
+	- para salir escribe :wq o :q! y Enter -
 
 3. Ejecutar el programa:
  1) - ./datagen3D < def.micelle3D > data.micelle3D -
