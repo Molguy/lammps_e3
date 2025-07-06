@@ -1,0 +1,10 @@
+3-d micelle definition
+
+0.66
+53616456        random # seed (8 digits or less)
+16 16 16        initial solvent square lattice (nx ny nz)
+200               # of solvent to turn into surfactants #Cadenas
+0.75            bond-length of surfactants (units of sigma)
+4               # of tails to add to each head (length of surfactant - 1) Longitud-1
+0               flag for 2nd nearest neighbor bonds (0=no, 1=yes)
+10		% of oil - like solvent (if 0% only water - like)
