@@ -1,6 +1,6 @@
 # lammps_e3
 
-Instructivo, archivos de entrada, auxiliares y log's de la simulación del ejemplo 3,
+Instructivo, archivos de entrada, auxiliares y log de la simulación del ejemplo 3,
 
 Comandos para la ejecucion en terminal:
 
