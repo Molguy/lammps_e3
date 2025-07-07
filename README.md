@@ -4,7 +4,7 @@ Instructivo, archivos de entrada, auxiliares y log de la simulación del ejemplo
 
 Comandos para la ejecucion en terminal:
 
-    gfortran M icelas3DCurso.f -o datagen3D  
+    gfortran Micelas3DCurso.f -o datagen3D  
 
 . para salir escribe **:wq** .
 
@@ -17,4 +17,4 @@ Comandos para la ejecucion en terminal:
     mpirun -np 4 lmp_mpi < in.micelle
 .
 
-    ovito < movie.lammpsEq 
+    ovito movie.lammpsEq 
